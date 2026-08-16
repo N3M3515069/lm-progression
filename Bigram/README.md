@@ -46,9 +46,11 @@ builds on:
 ## Sample generation
 
 **Before training** (random weights):
+
 Z:l 99[Y8.gycT&zlAXc5-6zEDkY8D5t;YsKlFvyZ!m8&iGCnSpF]pbLdOC2cxk3,z8F1yDs-]wn 9p7-1PYN"Wx3pTm !7PRvbyb)xc0EaXV*FWx7.dVqQMMH?4.h'OpBm:ogRF]MabE4bQnqRx
 
 **After training:**
+
 The itatr woruived bithed Fode pithed bo fod f m'toom!"Hiftousiz5Yo ggngnd.
 
 f Zedito abutingouthe e. je toould ablet aigam
