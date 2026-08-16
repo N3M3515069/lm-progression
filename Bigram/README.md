@@ -1,8 +1,7 @@
 # Bigram Language Model
 
 First stage of the `lm-progression` series — a from-scratch bigram language model
-built following Karpathy's "Let's build GPT" lecture (via freeCodeCamp), trained on
-the Wizard of Oz text.
+built following Karpathy's "Let's build GPT" lecture.
 
 ## What this is
 
